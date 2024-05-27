@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/solar-conflux](https://github.com/prescientmoon/solar-conflux) 🚧
 # The _solar conflux_
 
 > Pristine yet chaotic, familiar yet mysterious, unique yet repeating — the cosmos held many secrets for those wise enough to seek them — secrets of its own volition, and shadows of those before it. [...]
